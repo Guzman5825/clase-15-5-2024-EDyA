@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1715806768 source:c:\users\usuario\desktop\codeblocks ejercicios\clase_listadoble\listadoble.c
+	"listaDoble.h"
+
+1715806683 source:c:\users\usuario\desktop\codeblocks ejercicios\clase_listadoble\main.c
+	<stdio.h>
+	<stdlib.h>
+	"listaDoble.h"
+	"stock.h"
+	<string.h>
+
+1715800709 source:c:\users\usuario\desktop\codeblocks ejercicios\clase_listadoble\alumno.c
+	"alumno.h"
+
+1715800199 c:\users\usuario\desktop\codeblocks ejercicios\clase_listadoble\alumno.h
+	<stdio.h>
+
+1715806547 c:\users\usuario\desktop\codeblocks ejercicios\clase_listadoble\listadoble.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1715804816 source:c:\users\usuario\desktop\codeblocks ejercicios\clase_listadoble\stock.c
+	"stock.h"
+
+1715801991 c:\users\usuario\desktop\codeblocks ejercicios\clase_listadoble\stock.h
+	<stdio.h>
+	<string.h>
+
